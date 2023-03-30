@@ -1,0 +1,12 @@
+.nb-item {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
+    font-size: 1.5rem;
+    margin: 30px 5px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+.nb-item:hover {
+    color: cornflowerblue;
+    font-weight: 600;
+}

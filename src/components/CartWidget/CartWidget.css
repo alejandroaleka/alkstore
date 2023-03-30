@@ -1,0 +1,16 @@
+.cartSVG {
+    width: 2rem;
+    margin: 5px 5px;
+}
+
+.cartUnits {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    vertical-align: bottom;
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    background: black;
+    border-radius: 50%;
+}
