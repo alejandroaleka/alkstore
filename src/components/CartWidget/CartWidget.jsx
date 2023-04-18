@@ -1,12 +1,12 @@
 import React from 'react'
 import './CartWidget.css'
-import CartLogo from './cart.svg'
+import CartLogo from './assets/cart.svg'
 
 const CartWidget = () => {
   return (
-    <div>
+    <div className='cartUnits'>
         <img className='cartSVG' src={CartLogo} alt="Cart" />
-        <p className='cartUnits'>4</p>
+        <p>0</p>
     </div>
     )
 }
