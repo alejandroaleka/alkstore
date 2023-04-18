@@ -1,0 +1,31 @@
+.card-item {
+    background-color: #F0BB95;
+    border-radius: 2rem;
+}
+
+.header {
+    text-align: center;
+    padding: 2px;
+}
+
+.item-header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    margin: 5px auto;
+    padding: 2px;
+}
+
+.item-img {
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 5px;
+    display: block;
+}
+
+.info {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    margin: 5px 10px;
+    padding: 1px;
+}
