@@ -37,8 +37,7 @@ const products = [
     price: 1999,
     categoryId: "4",
     stock: 21,
-    description:
-      "CORSAIR XENEON FLEX 45WQHD240 45-Inch OLED (3440 x1440), 240Hz Refresh Rate, Bendable Gaming Monitor",
+    description: "CORSAIR XENEON FLEX 45WQHD240 OLED 240Hz",
     img: "/assets/xenon-flex.png",
   },
 ];

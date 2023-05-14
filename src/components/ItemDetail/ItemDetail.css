@@ -35,3 +35,9 @@
 a{
     all: unset;
 }
+
+.option{
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
