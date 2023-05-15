@@ -1,4 +1,4 @@
-// categorias: 1:"COMPONENTS" - 2:"PC" - 3:"LAPTOP" - 4:"MONITOR"
+/* // categorias: 1:"COMPONENTS" - 2:"PC" - 3:"LAPTOP" - 4:"MONITOR"
 const products = [
   {
     id: "1",
@@ -65,3 +65,4 @@ export const getProductsByCategory = (categoryId) => {
     }, 100);
   });
 };
+ */
