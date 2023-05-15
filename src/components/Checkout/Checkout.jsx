@@ -96,7 +96,7 @@ const Checkout = () => {
         </form>
         {
             orderId && (
-                <strong>¡Gracias por su compra! Su número de orden es el {orderId}</strong>
+                <div className='mb-5 p-3'><strong>¡Gracias por su compra! Su número de orden es el {orderId}</strong></div>
             )
         }
     </div>
